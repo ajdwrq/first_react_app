@@ -27,9 +27,6 @@ ReactDOM.render(
         <hr/>*/}
         {/*<ControlPanel1/>*/}
        {/* <ControlPanel2/>*/}
-
-
-
         <Ycjzsj/>
 
 
