@@ -28,8 +28,6 @@ ReactDOM.render(
         {/*<ControlPanel1/>*/}
        {/* <ControlPanel2/>*/}
         <Ycjzsj/>
-
-
     </div>,
     document.getElementById('root')
 );
